@@ -1,0 +1,22 @@
+G:\С# программирование\SeaBattleFatServer\Client\bin\Debug\Client.exe.config
+G:\С# программирование\SeaBattleFatServer\Client\bin\Debug\Client.exe
+G:\С# программирование\SeaBattleFatServer\Client\bin\Debug\Client.pdb
+G:\С# программирование\SeaBattleFatServer\Client\bin\Debug\ConnectionLibrary.dll
+G:\С# программирование\SeaBattleFatServer\Client\bin\Debug\ConnectionLibrary.pdb
+G:\С# программирование\SeaBattleFatServer\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+G:\С# программирование\SeaBattleFatServer\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+G:\С# программирование\SeaBattleFatServer\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+G:\С# программирование\SeaBattleFatServer\Client\obj\Debug\Client.csproj.CopyComplete
+G:\С# программирование\SeaBattleFatServer\Client\obj\Debug\Client.exe
+G:\С# программирование\SeaBattleFatServer\Client\obj\Debug\Client.pdb
+C:\Users\Alex\Desktop\SeaBattleFatServer\Client\bin\Debug\Client.exe.config
+C:\Users\Alex\Desktop\SeaBattleFatServer\Client\bin\Debug\Client.exe
+C:\Users\Alex\Desktop\SeaBattleFatServer\Client\bin\Debug\Client.pdb
+C:\Users\Alex\Desktop\SeaBattleFatServer\Client\bin\Debug\ConnectionLibrary.dll
+C:\Users\Alex\Desktop\SeaBattleFatServer\Client\bin\Debug\ConnectionLibrary.pdb
+C:\Users\Alex\Desktop\SeaBattleFatServer\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\SeaBattleFatServer\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\SeaBattleFatServer\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\SeaBattleFatServer\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Alex\Desktop\SeaBattleFatServer\Client\obj\Debug\Client.exe
+C:\Users\Alex\Desktop\SeaBattleFatServer\Client\obj\Debug\Client.pdb
